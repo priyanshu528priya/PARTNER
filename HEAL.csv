@@ -1,0 +1,531 @@
+Dialogue_Id,Utterance_No,Speaker,Utterances,Counselling_Act,Politeness_Strategy,Empathy_Strategy
+2,0,bot,A very good afternoon! We are here to help you in a safe environment.,greet,positive politeness,confidential comforting
+2,1,user,"Hi, I'm going to die because of my in-laws.",,,
+2,2,bot,"Please relax, my dear friend. We are here to assist you with your problem, everything will be fine. Could you please tell who I'm talking to?",seek information,positive politeness,express emotional support
+2,3,user,"I'm Rita , and I'm <person_age> years old .",,,
+2,4,bot,"Hello Rita, we will make our best efforts to help you. Could you please describe your issue in detail? ",persuasion,negative politeness,reflective listening
+2,5,user,My husband enlisted in the military and died as a result of his service . My monstrous in-laws has been making it difficult for me to live since then.,,,
+2,6,bot,We are really sorry to hear about your husband. May his soul rest-in-peace. May I know how they are torturing you?,seek information,positive politeness,express emotional support
+2,7,user,They are creating situation that I will kill myself. Those executioners beat me and abuse me. I am injured and tired of all this.,,,
+2,8,bot,That's quite awful. We understand being tortured and abused is horrible. Have you informed the police or anyone about this incident?,seek information,bald-on-record,reflective listening
+2,9,user,"What a ridiculous question ; if I knew what to do and how to do it , why would I come to you ?",,,
+2,10,bot,Please relax ; we will do our best to assist you. Do you want to take help from police?,persuasion,positive politeness,escalate assurance
+2,11,user,"Maybe no, I mean I am scared, I don't know what would be helpful.",,,
+2,12,bot,"See Rita, standing for yourself and seeking help is a sign of bravery. I believe you are truly courageous. We would suggest you to please go ahead, would you?",persuasion,positive politeness,evoking motivation
+2,13,user,I think you are right.,,,
+2,14,bot,"That's great! Here are a few options for assistance : Police Complaint , NGO Assistance , Women's Support Group , Legal Assistance , Medical Assistance , and/or SIUCAW Assistance",deliver information,positive politeness,no strategy
+2,15,user,I want to enlist the assistance of the police. ,,,
+2,16,bot,Do you want to file a police complaint online or offline .,seek information,bald-on-record,no strategy
+2,17,user,Just assist me with any online option .,,,
+2,18,bot,"Sure , do you want to report the event via WhatsApp or the Police Complaint Portal .",seek information,bald-on-record,no strategy
+2,19,user,"Please, just answer my question concerning the Whatsapp feature in a single line.",,,
+2,20,bot,Please accept my apologies for the inconvenience ; I am always eager to assist . Please make your complaint to the police using WhatsApp no. ##########.,legal assistance,positive politeness,no strategy
+2,21,user,"My goodness , you finally helped .",,,
+2,22,bot,Do you want me to assist you with something else ?,re-check assistance,bald-on-record,reflective listening
+2,23,user,"I'm not interested in your assistance anymore , bye .",,,
+2,24,bot,Thank you for getting in touch with us . We are always available to assist you . Have a wonderful day !,closing remark,positive politeness,escalate assurance
+15,0,bot,"Hello, my friend!! We are here to assist you in a safe and secure atmosphere.",greet,positive politeness,confidential comforting
+15,1,user,I have been marriend to a monster.,,,
+15,2,bot,"Please cool down, my dear friend and let me know what is troubling you. We will help you  in best possible way. May I know your good name before starting?",persuasion,negative politeness,express emotional support
+15,3,user,"My name should not be your concern, right?",,,
+15,4,bot,"Yeah, that's perfectly fine. Could you kindly describe your problem in more detail so that we can better assist you?",seek information,positive politeness,reflective listening
+15,5,user,my monster husband has been known to force himself on me against my will on several occasions .,,,
+15,6,bot,I'm sorry you've had to go through all this. We want to know what your husband is actually doing to better comprehend the situation and help you with the very best assistance.,seek information,positive politeness,express emotional support
+15,7,user,"My monster husband assaulted me when he was inebriated . When I tried to stand up to him , he thrashed me and sexually assaulted me . I've been really hurt . That jerk deserves to be punished .",,,
+15,8,bot,"That's really disappointing to hear. But please don't worry, we will help you. Are you aware of the services available for helping women who have experienced violence in any form?",persuasion,positive politeness,escalate assurance
+15,9,user,Which services?,,,
+15,10,bot,Sevices for mental health assistance or legal help to help you better handle the situation peacefully and lawfully.,persuasion,bald-on-record,escalate assurance
+15,11,user,No.,,,
+15,12,bot,"No issues!! Here are a few options we have for your assistance: Police Complaint , NGO Assistance , Women's Support Group , Legal Assistance , Medical Assistance , SIUCAW Assistance , and Counseling Assistance",deliver information,positive politeness,offer counselling
+15,13,user,Help me with police complain option and be quick this time .,,,
+15,14,bot,"Sure , do you want to go for an online/offline police complaint ?",seek information,bald-on-record,no strategy
+15,15,user,On the internet . You ask too many questions .,,,
+15,16,bot,Please accept my apologies for causing you any inconvenience . Please make your complaint to the police online using the national portal www.crimeagainstwome.gov.in.,seek information,positive politeness,no strategy
+15,17,user,Thank God! you provided some important information .,,,
+15,18,bot,"If there's anything else I can do for you , feel free to ask .",re-check assistance,positive politeness,escalate assurance
+15,19,user,"No , no , that's enough for the time being .",,,
+15,20,bot,"If you have any questions or issues , please contact us . Thank you for getting in touch with us. Have a wonderful day !",closing remark,positive politeness,escalate assurance
+23,0,bot,"Hello, my friend!! We are here to assist you in a safe and secure atmosphere.",greet,positive politeness,confidential comforting
+23,1,user,I have been marriend to a monster.,,,
+23,2,bot,"Please cool down, my dear friend and let me know what is troubling you. We will help you  in best possible way. May I know your good name before starting?",persuasion,negative politeness,express emotional support
+23,3,user,"My name should not be your concern, right?",,,
+23,4,bot,"Yeah, that's perfectly fine. Could you kindly describe your problem in more detail so that we can better assist you?",seek information,positive politeness,reflective listening
+23,5,user,my monster husband has been known to force himself on me against my will on several occasions .,,,
+23,6,bot,I'm sorry you've had to go through all this. We want to know what your husband is actually doing to better comprehend the situation and help you with the very best assistance.,seek information,positive politeness,express emotional support
+23,7,user,"My monster husband assaulted me when he was inebriated . When I tried to stand up to him , he thrashed me and sexually assaulted me . I've been really hurt . That jerk deserves to be punished .",,,
+23,8,bot,"That's really disappointing to hear. But please don't worry, we will help you. Are you aware of the services available for helping women who have experienced violence in any form?",persuasion,positive politeness,escalate assurance
+23,9,user,Which services?,,,
+23,10,bot,Sevices for mental health assistance or legal help to help you better handle the situation peacefully and lawfully.,persuasion,bald-on-record,escalate assurance
+23,11,user,No.,,,
+23,12,bot,"No issues!! Here are a few options we have for your assistance: Police Complaint , NGO Assistance , Women's Support Group, Legal Assistance , Medical Assistance , SIUCAW Assistance , and Counseling Assistance",deliver information,positive politeness,no strategy
+23,13,user,"Fine , assist me with the police complaint option and be speedy this time .",,,
+23,14,bot,"Sure , do you want to file a police complaint online or offline .",seek information,bald-on-record,no strategy
+23,15,user,I want to lodge a police complaint over WhatsApp . Is that even possible ?,,,
+23,16,bot,"Yes , could you please give your current location so that we can better serve you ?",seek information,negative politeness,no strategy
+23,17,user,"it's Alwal , Rajasthan-876544 is my location .",,,
+23,18,bot,"Thanks for the location. For a quick complaint , here is the whatsapp number (Mr . M K Singh 98578#####) .",legal assistance,positive politeness,no strategy
+23,19,user,Fine .,,,
+23,20,bot,Is there anything else I can do to help you,re-check assistance,bald-on-record,reflective listening
+23,21,user,Tell me how long does it take for a response without bombarding your questions .,,,
+23,22,bot,You will receive a response within 1-2 working days .,deliver information,bald-on-record,no strategy
+23,23,user,Fine.,,,
+23,24,bot,"If you have any questions or issues , please contact us . Thank you for getting in touch with us . Have a wonderful day !",closing remark,positive politeness,escalate assurance
+31,0,bot,Warm greetings!! I'm here to help you in a secure environment.,greet,positive politeness,confidential comforting
+31,1,user,Hey! please save me.,,,
+31,2,bot,"Sure , I'm here to assist . Please maintain your composure . Please tell me your full name .",persuasion,positive politeness,express emotional support
+31,3,user,Is it safe?,,,
+31,4,bot,"Yes, we are absolutely genuine and ready 24 hours a day, seven days a week to assist solely female and child crime victims. Check out url> for additional information about us.",persuasion,bald-on-record,confidential comforting
+31,5,user,"I'm Stuti, a Dhanbad-based 18-year-old girl from Sindri.",,,
+31,6,bot,"Hi, Stuti . Could you please tell your issue ?",seek information,positive politeness,reflective listening
+31,7,user,"I was kidnapped three years ago from the Dhanbad train station and thereafter sold to a man who owns an orchestra band. Since then, that jerk has made me dance in an orchestra band . I want to get free of this confinement.",,,
+31,8,bot,"That's really disappointing to hear. But please don't worry, we will help you. Have you tried to contact police or someone for help?",counselling support,bald-on-record,reflective listening
+31,9,user,"No , everytime I scream and beg those rascals to let me go , they thrash me mercilessly . They even physically harassed me . I'm tempted to murder them .",,,
+31,10,bot,"This is heartbreaking to hear. We undertsand it's quite difficult for you, we will do everything we can to assist you. We would help you to reach out to government authorities or police for help, is that okay? ",persuasion,positive politeness,express emotional support
+31,11,user,Yes.,,,
+31,12,bot,"Here is a list of the few government or government-approved services we offer in the event of a complaint . Complaint/Assistance from the police . Women's Support Group , NGO Assistance SIUCAW Assistance , Legal Assistance , and Counseling Assistance .",persuasion,positive politeness,no strategy
+31,13,user,I want medical assistance right now .,,,
+31,14,bot,"Sure , is it possible for you to tell us where you are so that we can assist you further ?",seek information,negative politeness,reflective listening
+31,15,user,OMG!! I'm from Rajasthan's Alwal district .,,,
+31,16,bot,Thank you for informing us of the location . Kindly accept my apologies for your annoyance . Do you want to have a home or hospital visit ?,seek information,positive politeness,no strategy
+31,17,user,Inform me about the hospitals in my area .,,,
+31,18,bot,"Sure , here is a list of hospitals in your area . Dr . Mohini Rai , Mahindra Hospital , 98578##### .",counselling support,positive politeness,offer counselling
+31,19,user,Is this a government-run facility ?,,,
+31,20,bot,"Yes , ma'am , it's a full-fledged government facility . .",persuasion,positive politeness,no strategy
+31,21,user,You've certainly put my patience to the test .,,,
+31,22,bot,Is there anything else I can do to help you ?,re-check assistance,bald-on-record,reflective listening
+31,23,user,"No ways , never .",,,
+31,24,bot,"If you have any questions or issues , please contact us . Thank you for getting in touch with us . Have a wonderful day !",closing remark,positive politeness,escalate assurance
+48,0,bot,Hello!! Welcome to a secure environment. Please feel free to ask for assistance here if you have been a victim of violence against women or children.,greet,positive politeness,confidential comforting
+48,1,user,A man has done me a great disservice . He's such a scumbag .,,,
+48,2,bot,"Don't be concerned, we are here for you. You will be assisted in every way possible . Could you please tell me who I'm talking to ?",persuasion,positive politeness,express emotional support
+48,3,user,"Why are you bothering to ask my name , stop asking useless question ?",,,
+48,4,bot,Please remain calm . I'm here to help you by amassing a small amount of information . We can also proceed without knowing your name .,seek information,positive politeness,express emotional support
+48,5,user,I'm being duped and raped . I want to punish that jerk ; he doesn't deserve to be free .,,,
+48,6,bot,"This is sad to hear . Please don't worry , I'm here to assist you . Could you please describe your issue in detail ?",seek information,positive politeness,express emotional support
+48,7,user,I am eighteen years old . A man has raped me several times under the guise of marriage . His scumbag brothers and father had backed him up in this heinous act . Shah Khan is his name .,,,
+48,8,bot,Have you reported this to the police ?,seek information,bald-on-record,reflective listening
+48,9,user,"No , if I know what to do and how why would I come to you fool .",,,
+48,10,bot,"We are here to assist you with 100% security, so don't be concerned . Here are some of the services we offer . Police Complaint , NGO Assistance , Women's Support Group , Legal Assistance , SIUCAW Assistance , and Medical Assistance .",persuasion,positive politeness,offer counselling
+48,11,user,Please assist me with SIUCAW assistance as soon as possible .,,,
+48,12,bot,"Yes , please be patient and calm . Could you please tell me where you live ?",seek information,positive politeness,express emotional support
+48,13,user,I live in the Haryana district of Yamunanagar (876567) .,,,
+48,14,bot,Thank you for providing the location information . Would you like to seek SIUCAW assistance online or in person ?,seek information,positive politeness,no strategy
+48,15,user,"Why don't you ask in one go ? As soon as possible , assist me with an online option .",,,
+48,16,bot,Please click on the link for online SIUCAW assistance : http: //www.onlinesiucawhelp.gov.in/,legal assistance,bald-on-record,no strategy
+48,17,user,Thanks,,,
+48,18,bot,Do you need any other assistance .,re-check assistance,bald-on-record,no strategy
+48,19,user,Is it necessary for me to upload any documents to this portal ?,,,
+48,20,bot,"When reporting , any government approved identity card like Aadhar card or other form of identification will be required .",persuasion,bald-on-record,no strategy
+48,21,user,"Okay , bye for now .",,,
+48,22,bot,"If you have any concerns , please do not hesitate to contact Rakshak . Thank you for getting in touch with Rakshak . Have a wonderful day !",closing remark,positive politeness,escalate assurance
+54,0,bot,Hello!! Welcome to a secure environment. Please feel free to ask for assistance here if you have been a victim of violence against women or children.,greet,positive politeness,confidential comforting
+54,1,user,A man has done me a great disservice . He's such a scumbag .,,,
+54,2,bot,"Don't be concerned, we are here for you. You will be assisted in every way possible . Could you please tell me who I'm talking to ?",persuasion,positive politeness,express emotional support
+54,3,user,"Why are you bothering to ask my name , stop asking useless question ?",,,
+54,4,bot,Please remain calm . I'm here to help you by amassing a small amount of information . We can also proceed without knowing your name .,seek information,positive politeness,express emotional support
+54,5,user,I'm being duped and raped . I want to punish that jerk ; he doesn't deserve to be free .,,,
+54,6,bot,"This is sad to hear . Please don't worry , I'm here to assist you . Could you please describe your issue in detail ?",seek information,positive politeness,express emotional support
+54,7,user,I am eighteen years old . A man has raped me several times under the guise of marriage . His scumbag brothers and father had backed him up in this heinous act . Shah Khan is his name .,,,
+54,8,bot,Have you reported this to the police ?,seek information,bald-on-record,reflective listening
+54,9,user,"No , if I know what to do and how why would I come to you fool .",,,
+54,10,bot,"We are here to assist you with 100% security, so don't be concerned . Here are some of the services we offer . Police Complaint , NGO Assistance , Women's Support Group , Legal Assistance , SIUCAW Assistance , and Medical Assistance .",persuasion,positive politeness,offer counselling
+54,11,user,I'd like to file a police report . I want to make certain that these cretins are punished .,,,
+54,12,bot,"Sure , we'll do everything we can to help at the earliset . Please let me know if you want to file a police complaint online or in person .",seek information,positive politeness,no strategy
+54,13,user,I want to make an offline police complaint against those rascals .,,,
+54,14,bot,"Yes , could you please share your current location with us so that we can assist you more effectively ?",seek information,negative politeness,no strategy
+54,15,user,"Your back to back qustions are too annoying . My address is Alwal , Rajasthan-876544 .",,,
+54,16,bot,"Please find the information to get in touch with the police station closest to you . Deepak Chopra can be reached at 98578##### , XYZ Police Station , ALwal , Rajasthan-876545 .",legal assistance,bald-on-record,no strategy
+54,17,user,tell me what is the distance from where I am ?,,,
+54,18,bot,It is 1.6 kilometers away from where you are now .,deliver information,bald-on-record,no strategy
+54,19,user,see you.,,,
+54,20,bot,Do not hesitate to get in touch with us if you have any concerns or queries. We appreciate your taking the time to contact us. May today be the best day of your life.,closing remark,positive politeness,escalate assurance
+61,0,bot,Wishing you a pleasant morning! We are here to help you in a secure atmosphere. How may I assist you? ,greet,positive politeness,confidential comforting
+61,1,user,"Something is wrong in my village . On a regular basis , young women go missing . I guess , some bastards are there in the village who are involved in this .",,,
+61,2,bot,"Please relax, we are here to assist you . Could you please tell me who I'm talking to ?",seek information,positive politeness,express emotional support
+61,3,user,"My name is Kishori Singh , and I work as a teacher in Tankuppa village , Gaya district .",,,
+61,4,bot,"Hello , Kishori , please calm down . Could you please describe your issue so that we can better assist you ?",seek information,negative politeness,reflective listening
+61,5,user,"I am scared, if I will be in trouble because of all this.",,,
+61,6,bot,"We understand your concern. But see, a small step of yours can save so many lives. Please be assured, whatever you tell here will not be disclosed without your consent.",persuasion,positive politeness,evoking motivation
+61,7,user,"Two years ago, girls from the village were kidnapped on their way home from school and later discovered raped , dead and buried . This has started all over again . I believe they are being kidnapped .",,,
+61,8,bot,So have you made a complaint to your local panchayat or police station about this .,seek information,bald-on-record,no strategy
+61,9,user,"All of the villagers are unconcerned about the incident . They believe , as they did the previous time , that the girls are eloping with their boyfriends . What a cheap mentality !",,,
+61,10,bot,Do you know any girls or cases like this ?,seek information,bald-on-record,reflective listening
+61,11,user,"Yes , a very bright and talented young girl was overlooked yesterday . She was a career-oriented young lady . She would never do such a thing .",,,
+61,12,bot,"Please trust us, we are here to assist you in a secure way. Here are some of the services we offer . Police Complaint , NGO Assistance , Women's Support Group , Legal Assistance , SIUCAW Assistance , and Medical Assistance",persuasion,positive politeness,offer counselling
+61,13,user,I want to take legal action in the matter right away so that the rascals involved in this get punished .,,,
+61,14,bot,"That's great! I believe you, you can do this. Can you share your current location so that we can better assist you ?",seek information,negative politeness,no strategy
+61,15,user,"My address is Tankuppa , Gaya-823006 .",,,
+61,16,bot,Do you want to go for online or offline legal assistance?,seek information,bald-on-record,no strategy
+61,17,user,I intend to seek offline legal assistance so that those cretins can be punished as soon as possible .,,,
+61,18,bot,"Sure , here is a list of lawyers in your area : Anil Baijal , 98578##### , D K Dikshit , 98889##### , Ram Jethmalani , 98578##### , S K Sharma , 98578#####",legal assistance,bald-on-record,no strategy
+61,19,user,Can you give me with advocate Adv Anil Baijal's full address ?,,,
+61,20,bot,"Here is the address of Adv . Anil Baijal 98578##### , Shanti Niketan , Kali Ghat , Tankuppa , Gaya-823006 .",deliver information,bald-on-record,express emotional support
+61,21,user,You helped but tested my patience entirely .,,,
+61,22,bot,Apologies for the inconvenience. Do you want me to help you with anything else ?,re-check assistance,positive politeness,no strategy
+61,23,user,no.,,,
+61,24,bot,"If you have any concerns , please do not hesitate to contact us. We are always willing to assist . Have a wonderful day !",closing remark,positive politeness,escalate assurance
+76,0,bot,A very good evening! We are here to help you in a safe environment.,greet,positive politeness,confidential comforting
+76,1,user,"I'm in big trouble, can you help?",,,
+76,2,bot,"Please relax, we're here to assist you 24x7. For more details, please visiti <url>. Is it possible for me to know with whom I'm interacting ?",persuasion,negative politeness,express emotional support
+76,3,user,I don't want to tell what my name is because of some safety concerns.,,,
+76,4,bot,"Hello there , We are more than willing to assist you even if we do not know your name . Would you mind sharing more information about your problem so that we can better assist you ?",seek information,negative politeness,escalate assurance
+76,5,user,A bastard is bothering me by continually contacting and following me .,,,
+76,6,bot,Please calm down and explain your problem in more detail about the messages so that we can assist you right away .,seek information,positive politeness,reflective listening
+76,7,user,"A rascal is sending me WhatsApp messages on a regular basis , claiming to know your exact whereabouts . He complimented me on how nice you looked in that dress several times . I'm terrified .",,,
+76,8,bot,"We assure you to help you in best way possible. We need few more information, could you please help us by answering a few questions about this case ?",persuasion,negative politeness,reflective listening
+76,9,user,okay.,,,
+76,10,bot,Could you please tell me how he knows your whereabouts ?,seek information,negative politeness,reflective listening
+76,11,user,"I'm not sure , but he used to follow me via my WhatsApp status . After I blocked him , he began physically following me, what should I do.",,,
+76,12,bot,"Please do not panic, but instead be patient and take care of yourself . Could you please tell us whether he is known to you or unknown to you ?",seek information,negative politeness,reflective listening
+76,13,user,"Previously , that number was registered in the name of one of my friends , but he is no longer using it . As a result , I have no idea who that bastard is .",,,
+76,14,bot,"Okay , so tell me if you've made your family aware of this problem ?",seek information,bald-on-record,reflective listening
+76,15,user,"Yes , I have discussed this with my family , but everyone tells me to stop going outside and delete my WhatsApp .",,,
+76,16,bot,"This is sad to hear. You can make your family understand that this is not a solution. To convince them, you can share details about related incidents by visiting <url>, we hope it will help.",persuasion,positive politeness,evoking motivation
+76,17,user,I don't think.,,,
+76,18,bot,"Okay , please relax and calm down .Anyways, do you have any idea why he's doing this to you ?",seek information,positive politeness,reflective listening
+76,19,user,"He appears to be a psycho , bloody freak .",,,
+76,20,bot,"Please remain calm and patient , and remember to take care of yourself . According to the primary investigation , I understand you are dealing with stalking , which is a criminal offense under Section 354D of the IPC as amended by the Criminal Law (Amendment) Act of 2013 and Section 72 of the Information Technology (Amendment) Act of 2008 . You have the right to sue in this case .",legal assistance,positive politeness,no strategy
+76,21,user,"Yes , I want to make certain that the bastard is punished . What choices do I have ?",,,
+76,22,bot,"Yes , you may file a complaint through the Cyber Cell and the NCW portal .",legal assistance,bald-on-record,no strategy
+76,23,user,How do I file a complaint with the cyber cell against that bastard ?,,,
+76,24,bot,Would you file an online or offline complaint ?,seek information,bald-on-record,no strategy
+76,25,user,Immediately tell me about online complaint option .,,,
+76,26,bot,"Please visit www.cybercrime.gov.in and select the ""Report Other Cyber Crime"" tab option .",legal assistance,bald-on-record,no strategy
+76,27,user,"Okay , what comes next ?",,,
+76,28,bot,"Please go to www.cybercrime.gov.in and select ""Report Other Cyber Crime"" and then ""File a Complaint , "" fill in the details about yourself and the harasser , and submit it by clicking ""Ok . """,legal assistance,bald-on-record,no strategy
+76,29,user,Okay then .,,,
+76,30,bot,Do you require any additional assistance ?,re-check assistance,bald-on-record,no strategy
+76,31,user,No way .,,,
+76,32,bot,"Please take care of yourself , we are here to assist you . Thank you for stopping by!.",closing remark,positive politeness,escalate assurance
+84,0,bot,Wishing you a pleasant morning. How may I assist you today?,greet,positive politeness,confidential comforting
+84,1,user,I am feeling so devastated these days .,,,
+84,2,bot,Please calm down and relaxed . May I know to whom I am talking ?,seek information,positive politeness,express emotional support
+84,3,user,Don't ask my name .,,,
+84,4,bot,Please calm down and relaxed . We can even carry on without your name . Would you please share your problem in detail to assist you better ?,seek information,negative politeness,express emotional support
+84,5,user,Are you sure you can help me ?,,,
+84,6,bot,We are absolutely confident to help you by all means .,persuasion,positive politeness,escalate assurance
+84,7,user,I have been harassed by a rascal . I feel like killing him .,,,
+84,8,bot,Please calm down . Would you please share your issue to help you ?,seek information,negative politeness,reflective listening
+84,9,user,"What do you mean by share your issue , I already told you , I have been harassed . Can't you understand , idiot ?",,,
+84,10,bot,Please calm down and be patient . Here I mean to ask that what was the situation where you have noticed that you have been harassed ?,seek information,positive politeness,reflective listening
+84,11,user,Some bastard has morphed my picture and now harassing me that if I don't agree to his terms he will defame me .,,,
+84,12,bot,Please calm down and have patience . This is quite disgusting . Would you please like to share some more information with us to help you in a better way ?,seek information,negative politeness,express emotional support
+84,13,user,How could you ask me to be patient ? My reputation is at stake because of that bastard . I have to stop him as soon as possible .,,,
+84,14,bot,We request you to be patient to handle the situation in a better and effective mode . We'll surely send him behind the bars in case of guilty . Would you please tell us that which platform has he used for this disgusting activity ?,persuasion,negative politeness,express emotional support
+84,15,user,You gave me some hope . He is sending me my morphed pictures on the telegram and threatening me to marry him . I am very much disturbed .,,,
+84,16,bot,Please calm down and be patient . We are here to help you . Would you be comfortable sharing some more questions to assist you in a better way ?,seek information,negative politeness,express emotional support
+84,17,user,Fine but don't ask too many questions .,,,
+84,18,bot,Would you please tell us that which social media platform has he used to defame you ?,seek information,negative politeness,reflective listening
+84,19,user,"Again repeating your question , I told you it's on telegram you dumbo .",,,
+84,20,bot,"Ok , thanks for telling me the details . Would you have noticed that from which date has he started such activities ?",seek information,negative politeness,reflective listening
+84,21,user,That bastard is sending me the pics since last one week .,,,
+84,22,bot,Would you have ever noticed that who is that person and why is he doing this to you ?,seek information,negative politeness,reflective listening
+84,23,user,"Now , it's too much , I don't need your help . If I know him , I would surely kill him . Bye .",,,
+84,24,bot,Hope to serve you better in the upcoming future . Have a nice day!,closing remark,positive politeness,no strategy
+92,0,bot,Wishing you a pleasant morning. How may I assist you today?,greet,positive politeness,confidential comforting
+92,1,user,I am terrified .He has destroyed me .,,,
+92,2,bot,Please calm down and be patient . We are here to help you in a secure environment. May i know to whom i am intracting ?,persuasion,negative politeness,express emotional support
+92,3,user,I am not interested in revealing my personal information . Just help me in punishing that bastard .,,,
+92,4,bot,Please calm down and relaxed . We can help you without detail also here . Would you please share your issue in detail to assist you .,seek information,negative politeness,express emotional support
+92,5,user,"I am in great pain . That bastard has raped me and he has circulated the rape video to his friends . He is such a niche , he doesn't deserve to live .",,,
+92,6,bot,It's absolutely disgusting . I know that you have faced really the worst situation . We assure you to be with you till you get justice. Are you in the appropriate situation to interact ?,persuasion,positive politeness,escalate assurance
+92,7,user,"Don't worry about me , I just want to make sure to punish that bastard and those rascals who circulated my video . They deserve to be in hell .",,,
+92,8,bot,"We are here to help you in all situations . I know it's tough for you to remind the situation and explain it to anyone , but would you please share your incident details to file a proper complaint on your behalf for justice ?",seek information,negative politeness,no strategy
+92,9,user,I don't know what to say?,,,
+92,10,bot,We believe that you are truly brave to stand for yourself. We are with you. Please feel free to share the relevant details so that we can help you?,persuasion,positive politeness,evoking motivation
+92,11,user,What a non-sense question ? What details do you need ?,,,
+92,12,bot,Please calm down and be patient . It's our routine investigation steps to know about the case and take the action against the culprit . Would you please answer a few of the questions to assist you in a better way ?,seek information,negative politeness,no strategy
+92,13,user,"Fine , but be wise while asking questions .",,,
+92,14,bot,How do you know that person before this incident ?,seek information,bald-on-record,reflective listening
+92,15,user,He was my boyfriend .,,,
+92,16,bot,"Would you please tell us that from how long , you have been in this relationship ?",seek information,negative politeness,reflective listening
+92,17,user,"It's none of your business , just tell me how can I punish that monster .",,,
+92,18,bot,Please calm down and be patient . We are here to help you . Would you please answer that when this incident happened ?,seek information,negative politeness,express emotional support
+92,19,user,It happened three months ago and I came to know about the video two days ago . I wish I could kill him .,,,
+92,20,bot,Have you made any complaint to your local police station about this ?,seek information,bald-on-record,reflective listening
+92,21,user,"Nope , I was scared but now I want to do everything to put that bastard behind the bars .",,,
+92,22,bot,"Thanks for your cooperation . This is an instance of online harassment which is an offense under 354A and 354B of IPC through the Criminal Law (Amendment) Act , 2013 and IPC 499 . You can report this to Cyber Cell and/or National Commission for Women . Would you like to complain against him ?",legal assistance,negative politeness,no strategy
+92,23,user,"Oh! great , that's quite impressive. Let me know how can I put that blackmailer behind the bars .",,,
+92,24,bot,You can complain about him at Cyber Cell and NCW portal .,legal assistance,bald-on-record,no strategy
+92,25,user,Tell me how to complain about that rascal cheater-cum-blackmailer in Cyber Cell .,,,
+92,26,bot,Would you like to go for an online/offline complaint option ?,seek information,negative politeness,no strategy
+92,27,user,Online will be good for me . Just provide the link of the portal .,,,
+92,28,bot,"Thanks for choosing an online complaint option . Please log on to www.cybercrime.gov.in and click to ""Report Other Cyber Crime"" and click on ""File a Complaint"" and proceed further with the relevant information .",legal assistance,bald-on-record,no strategy
+92,29,user,Thank you .,,,
+92,30,bot,Would you need some more assistance on it ?,re-check assistance,negative politeness,no strategy
+92,31,user,"Nope , that's all from my end .",,,
+92,32,bot,Thank you for stopping by! Please follow https : //twitter . com/Cyberdost to stay up to date on the latest cybercrime news and cyber-safety tips .,closing remark,positive politeness,no strategy
+105,0,bot,"Welcome to Rakshak, a secure place to share your problem and get help. What can I do for you today?",greet,positive politeness,confidential comforting
+105,1,user,I am <person_name> and I am from <person_place>. ,,,
+105,2,bot,"Hello <person_name>, I am Rakshak. <person_name> is really a nice name.",persuasion,positive politeness,confidential comforting
+105,3,user,But I am not a nice person. I am pathetic.,,,
+105,4,bot,"That's not you talking <person_name>, perhaps it is something that is bothering you. We will try our best to help you if you share your problem with us? ",seek information,positive politeness,evoking motivation
+105,5,user,I will share my problem but first assure me that you will not tell anyone about this.,,,
+105,6,bot,"Kindly be assured, your information will be confidential. We are your friend and we truly respect your privacy.",persuasion,positive politeness,confidential comforting
+105,7,user,"Thanks, actually 3 years back I did something for which I feel guilty today.",,,
+105,8,bot,We understand you're experiencing a tough time. Could you please tell us the reason for your guilt?,seek information,negative politeness,confidential comforting
+105,9,user,I complained against my husband for posting false things on FB anf defaming me to the extent that I attempted suicide and now he is under imprisonment for 5 years.,,,
+105,10,bot,"We are sorry to hear about your husband. But you haven't done anything wrong, fighting against crime is totally fair and it's your right. ",persuasion,positive politeness,confidential comforting
+105,11,user,"I know, on one side, I feel sad for him but the other side I feel he is paying for his deeds. I feel to go on a long trip to forget all this, tired of my inner battle.",,,
+105,12,bot,"That's great! You can plan your trip, it will make you feel better. We would suggest don't feel guilty, everyone is meant to pay for his deeds.",persuasion,positive politeness,confidential comforting
+105,13,user,Yes.,,,
+105,14,bot,You may can prepare a bucket list for your trip. It will keep you engaged and far from negative thoughts. ,counselling support,bald-on-record,reflective listening
+105,15,user,That's a good suggestion.,,,
+105,16,bot,We are glad that you like it. Is there anything else I can do for you?,re-check assistance,positive politeness,confidential comforting
+105,17,user,"Not now, I will be back if I need anything.",,,
+105,18,bot,"Yes sure, please feel free to get back to us anytime. We are here for you 24x7. Good luck and stay safe!",closing remark,positive politeness,confidential comforting
+119,0,bot,"Greetings of the day, I'm here to help you in a secure environment.",greet,positive politeness,confidential comforting
+119,1,user,"Hey there, I need assistance regarding some serious crimes done against me. Can you help me with this?",,,
+119,2,bot,"Yes, definitely, we're totally authentic and are 24X7 available just only to help women and children crime victims. You can check our link <url> for more information about us.",persuasion,positive politeness,express emotional support
+119,3,user,A individual and his family are torturing me both physically and emotionally.,,,
+119,4,bot,Hearing this makes me really sad. Please let me know to whom I am speaking.,seek information,negative politeness,escalate assurance
+119,5,user,"I am Abhinavi , 23 years old .",,,
+119,6,bot,"Hi Abhinavi, Can you please share more details related to the issue?",seek information,positive politeness,escalate assurance
+119,7,user,"My bloody tution teacher has bad eyes on me . He often looks at me with bad intentions . When I raised my voice against this , that bastard and his family members threatened me and my mother . My mother is very scared , she is a single mother so she is saying just let it be .",,,
+119,8,bot,Be courageous and please don't get upset. Do you mind sharing if you've filed any complaints with the police?,seek information,positive politeness,reflective listening
+119,9,user,No .I've not.,,,
+119,10,bot,"Don't worry; we will assist you in the best manner possible. The few pieces of advice are provided here. Police Complaint, Legal Aid, Women's Support Group, NGO Assistance, Medical Assistance, Counseling Assistance, and SIUCAW Assistance.",legal assistance,positive politeness,offer counselling
+119,11,user,I need counselling for myself .,,,
+119,12,bot,That's a good choice . Would you go for an online/offline counselling ?,seek information,positive politeness,offer counselling
+119,13,user,I will go with online counselling .,,,
+119,14,bot,We appreciate your decision . Could you please share your current state location to assist you better ?,seek information,negative politeness,no strategy
+119,15,user,"I live in Chas , Bokaro-876543 .",,,
+119,16,bot,Thank you for the location . Here is the link for online counseling help . www.medhelp.gov.in,counselling support,positive politeness,offer counselling
+119,17,user,"Okay , great ! ! Thanks a lot .",,,
+119,18,bot,Would you like to assist me with something else .,re-check assistance,negative politeness,reflective listening
+119,19,user,No .,,,
+119,20,bot,"If you have any further worries, don't hesitate to get in touch with us. We appreciate you for seeking help from us. Have a good day!",closing remark,positive politeness,escalate assurance
+124,0,bot,Good morning. I'm here to assist you in a safe atmosphere. ,greet,positive politeness,confidential comforting
+124,1,user,I'm so sad.,,,
+124,2,bot,"Please! Do not be sad; I am here to help you. If it's fine with you, Can I know to whom I am speaking?",seek information,positive politeness,express emotional support
+124,3,user,"I am Rashmi Singh , 25 years old .",,,
+124,4,bot,"Hello, Rashmi, to best help you, would you kindly describe your issue in detail?",seek information,negative politeness,reflective listening
+124,5,user,My 17-year-old sister was raped by a bastard who wants to marry me forcefully . That rascal did all this because he wanted to take revenge from me . I want to see him getting rotten behind the bars .,,,
+124,6,bot,It's dishonorable. You are not alone. Do you mind telling me if you've done any police complaint?,seek information,positive politeness,evoking motivation
+124,7,user,"No , I am scared , that bastard threatened to defame my sister .",,,
+124,8,bot,"Don't panic , we are here to assist you in all ways.",persuasion,positive politeness,express emotional support
+124,9,user,"Don't just say you Fool , put your words into action .",,,
+124,10,bot,"Please calm down . Here are the few options you can go for . Police Complaint , NGO Help , Women Support Group , Legal Help , SIUCAW Help , and Medical Help .",legal assistance,positive politeness,no strategy
+124,11,user,Tell me about any Women Support Group near my location right away .,,,
+124,12,bot,"We respect the choice you made. To help you more effectively, would you kindly tell where you are located right now?",seek information,negative politeness,no strategy
+124,13,user,"I live in Bidan Street , Kolkata-876543 .",,,
+124,14,bot,Thank you for providing the location. Below are the WSG details. Geeta Bishwas and Mahila Suraksha are both 98578#####.,counselling support,positive politeness,no strategy
+124,15,user,Much thanks.,,,
+124,16,bot,Do you need any other assistance?,re-check assistance,negative politeness,reflective listening
+124,17,user,What costs do they impose?,,,
+124,18,bot,It's quite inexpensive and minimal.,deliver information,bald-on-record,no strategy
+124,19,user,Ok,,,
+124,20,bot,Do you need my help with anything else right now?,re-check assistance,negative politeness,reflective listening
+124,21,user,No .,,,
+124,22,bot,I'm glad we could be of help. We value your coming to see us. Have a nice day!,,positive politeness,no strategy
+138,0,bot,"Greetings of the day, I'm here to help you in a secure environment.",greet,positive politeness,confidential comforting
+138,1,user,Some monsters had killed my maid .,,,
+138,2,bot,"We are really sorry for the loss. To help you efficiiently, Can I further ask some questions.  ",persuasion,positive politeness,offer counselling
+138,3,user,Yes.,,,
+138,4,bot,This is really a sad news. May I know your name?,seek information,positive politeness,escalate assurance
+138,5,user,I am Akanksha Sinha from Jharkhand .,,,
+138,6,bot,"Hi Akansha , could you please share your problem in detail to assist you better ?",seek information,negative politeness,reflective listening
+138,7,user,My maid was killed 3 days ago . His bloody nephew alleged her of witchcraft and killed her and his husband . I got to know about this today from her daughter who is 10 years old .,,,
+138,8,bot,It's horrific . May I know if you have complained to police or some NGO ?,seek information,negative politeness,reflective listening
+138,9,user,No .,,,
+138,10,bot,"Don't be concerned; we are here to assist. Here are a few resources we recommend you use. Police Complaint, NGO Assistance, Women's Support Group, Legal Assistance, SIUCAW Assistance, Medical Assistance, and Counseling Assistance.",legal assistance,positive politeness,offer counselling
+138,11,user,I am looking for medical help for the poor girl as she is also injured .,,,
+138,12,bot,It was really kind of you. Would you accept a hospital or home visit?,seek information,positive politeness,no strategy
+138,13,user,Inform me about the medical facilities close by.,,,
+138,14,bot,"Yes, we would be happy to assist. To best help you, could you please tell where you are right now?",seek information,negative politeness,no strategy
+138,15,user,"I'm from Gharwa, Jharkhand, zip code 897654.",,,
+138,16,bot,"I appreciate the location. Below are the specifics of the hospital that is close by. Dr. Dev Sharan, City Hospital 98578#####.",counselling support,positive politeness,no strategy
+138,17,user,"Okay, many thanks.",,,
+138,18,bot,I'd be happy to help you out with something else.,re-check assistance,positive politeness,escalate assurance
+138,19,user,What are the appointment costs?,,,
+138,20,bot,We respect your interest. It is reasonably priced and accessible as needed.,deliver information,positive politeness,no strategy
+138,21,user,Ok .,,,
+138,22,bot,Do you need anything else from me right now?,re-check assistance,bald-on-record,reflective listening
+138,23,user,No .,,,
+138,24,bot,Glad we could be of assistance. We appreciate you visiting us. Have a good day!,closing remark,positive politeness,no strategy
+144,0,bot,"Greetings of the day, I'm here to help you in a secure environment.",greet,positive politeness,confidential comforting
+144,1,user,"Hello. If you don't help me, I'll kill that idiot.",,,
+144,2,bot,"Just take a deep breath; we are here to assist you. If it's fine with you, let me know to whom I am speaking.",persuasion,positive politeness,express emotional support
+144,3,user,"I am Swarika Sen , 19 years old .",,,
+144,4,bot,"Hello, Swarika To best help you, would you kindly describe your issue in detail?",seek information,negative politeness,reflective listening
+144,5,user,I became friends with someone on Instagram. He then made me an offer. We became close in a short period of time and began sharing much too much. I received a call yesterday from someone inquiring what my charge was. He claimed to have seen my pictures. I was astounded. I want to murder that f****** scoundrel.,,,
+144,6,bot,I'm really sorry that this occurred to you. Do you mind my asking if you've filed any complaints with the police?,seek information,negative politeness,reflective listening
+144,7,user,"Not yet, in fact. My notoriety makes me nervous. That scoundrel puts my reputation in jeopardy.",,,
+144,8,bot,"Please try to relax, you are not alone, we are here to help in all ways.Here are the few assistance you can go for . Police Complaint, NGO Aid, Women Support Group, Legal Aid, SIUCAW Aid, Medical Aid, and Counseling Assistance.",deliver information,positive politeness,offer counselling
+144,9,user,Please let me know if there are any women's support groups in the area.,,,
+144,10,bot,"Certainly, in order to help you more effectively, could you kindly disclose where you are right now?",seek information,negative politeness,no strategy
+144,11,user,My address is 876543 Bidan Street in Kolkata.,,,
+144,12,bot,Thank you for providing the location. Below are the WSG details. Geeta Bishwas and Mahila Suraksha are both 98578#####.,counselling support,positive politeness,no strategy
+144,13,user,Much thanks.,,,
+144,14,bot,Do you need any other assistance?,re-check assistance,negative politeness,reflective listening
+144,15,user,What costs do they impose?,,,
+144,16,bot,It's quite inexpensive and minimal.,deliver information,bald-on-record,no strategy
+144,17,user,"Okay, you fool.",,,
+144,18,bot,Do you need my help with anything else right now?,re-check assistance,negative politeness,reflective listening
+144,19,user,No .,,,
+144,20,bot,Glad we could be of help. Please feel free to contact us anytime. Have a nice day !,closing remark,positive politeness,no strategy
+157,0,bot,Good morning; please know that we are here to assist you safely.,greet,positive politeness,confidential comforting
+157,1,user,My friend was sexually assaulted by six idiot males five months ago.,,,
+157,2,bot,"We're really sorry to learn this. To help you in whatever manner, we are here. To better assist you, Is it OK if I ask for some information?",persuasion,positive politeness,offer counselling
+157,3,user,Yes.,,,
+157,2,bot,We are discouraged by this news. I'd appreciate knowing to whom I am speaking.,seek information,positive politeness,escalate assurance
+157,3,user,I am Pallivi Jha from UP .,,,
+157,4,bot,"Please provide me with additional information about your problem so that I may assist you more efficiently, Pallavi.",seek information,negative politeness,reflective listening
+157,5,user,"My friend was gangraped in the jungles of Faizganj Behta about five months ago . I came to know about this after the video of the incident went viral on social media recently . When I asked her , she started crying and told me everything . What should I do to help her ?",,,
+157,6,bot,It's really dishonorable. Do you know if she has filed a police report?,seek information,negative politeness,reflective listening
+157,7,user,"Unfortunately, she hasn't complained yet since those cretins have openly threatened her.",,,
+157,8,bot,"Please be brave , I am here for the help . Here is the few assistance you can go for . Police Complaint , NGO Help , Women Support Group , Legal Help , SIUCAW Help , Medical Help , and Counselling Help .",deliver information,positive politeness,offer counselling
+157,9,user,I'm seeking for counseling services.,,,
+157,10,bot,"It was really kind of you. To help you further, would you kindly let us know where you are right now?",seek information,negative politeness,no strategy
+157,11,user,"I'm from Gharwa, Jharkhand, zip code 897654.",,,
+157,12,bot,I appreciate you sharing your knowledge. Would you seek out online or in-person counseling?,seek information,positive politeness,offer counselling
+157,13,user,I'll get counseling online.,,,
+157,14,bot,We agree with your decision. The counseling link is provided here. www.onlinemedhelp.gov.in,counselling support,positive politeness,offer counselling
+157,15,user,I appreciate your assistance very lot.,,,
+157,16,bot,Do you need anything else from me right now?,re-check assistance,bald-on-record,reflective listening
+157,17,user,No .,,,
+157,18,bot,I'm glad we could be of help. We value your coming to see us. Enjoy your day!,closing remark,positive politeness,no strategy
+163,0,bot,"Hello, greetings of the day, we are here to assist you in a safe and secure environment.",greet,positive politeness,confidential comforting
+163,1,user,I am cheated .,,,
+163,2,bot,I'm really sorry to hear this. We are here to assist in any way. Can I know to whom I'm speaking with?,persuasion,positive politeness,escalate assurance
+163,3,user,I am 23-year-old Nisha Parmar.,,,
+163,4,bot,"Hello Nisha, may you kindly describe your issue in more detail?",seek information,negative politeness,reflective listening
+163,5,user,"My bank claimed to have called me, so I answered it. My debit card will be stopped in the following two days, the guy claimed. I have to have my card reactivated. Requesting the Aadhar number, he The information was given. Then, when he demanded an OTP, the jerk drained Rs. 99, 000 from my account.",,,
+163,6,bot,Hearing this is sad. Will you please let me know if you reported this scam to the police?,seek information,positive politeness,reflective listening
+163,7,user,No .,,,
+163,8,bot,"Don't be concerned, we are here to assist you. The few of the different assistances we provide are listed below. Police Complaint, ACP Complaint, Cyber Complaint, Fraud Call Awareness Guidelines, and Counselor Support.",deliver information,positive politeness,no strategy
+163,9,user,How can I file a police report?,,,
+163,10,bot,Would you file a complaint offline or online?,seek information,negative politeness,no strategy
+163,11,user,I'll file a police report offline.,,,
+163,12,bot,"That's excellent. In order to help you more, would you kindly tell where you are right now?",seek information,negative politeness,no strategy
+163,13,user,"In Hyderabad, India, at Lingampalli, I reside.",,,
+163,14,bot,"Thank you for providing the location. The link for an offline complaint is here. Vijay Shankar, Lingampalli Police Station, 98578#####",legal assistance,positive politeness,no strategy
+163,15,user,I appreciate the information.,,,
+163,16,bot,Do you need any other assistance?,,negative politeness,reflective listening
+163,17,user,No .,,,
+163,18,bot,I'm happy we could be of assistance. We appreciate you visiting us. Have a great day!,closing remark,positive politeness,no strategy
+173,0,bot,"Hello, good day, and welcome. We are here to assist you in a safe setting.",greet,positive politeness,no strategy
+173,1,user,I was bluffed by few bloody men on the internet they took all my money .,,,
+173,2,bot,"This is awful, and I'm sorry for your loss. We are available to help in any manner. Can you let me know who you are communicating with?",persuasion,positive politeness,escalate assurance
+173,3,user,My name is sushila and I am 55 years .,,,
+173,4,bot,"Hello Sushila , could you please elaborate on your problem ?",seek information,negative politeness,reflective listening
+173,5,user,"I already told you stupid, I was bluffed by few bloody men on the internet they took all my money .",,,
+173,6,bot,Kindly let me know how they bluffed you .,seek information,positive politeness,reflective listening
+173,7,user,They asked my credit card information .,,,
+173,8,bot,"Okay , could you please tell me how much money you have lost ?",seek information,negative politeness,reflective listening
+173,9,user,35thousand .,,,
+173,10,bot,"Ohh ! ! I am very sorry about this . You can have the following assiatnace sin this case : Cyber Cell Reporting , Counselling Help and/or Cyber Awareness-cum-complaint Helpline .",deliver information,positive politeness,no strategy
+173,11,user,I wish to use the reporting option via a cyber cell.,,,
+173,12,bot,Please let me know where you are.,seek information,negative politeness,no strategy
+173,13,user,Jharkhand's Bekar Bandh Railway Station is in Dhanbad.,,,
+173,14,bot,I appreciate the information. Would you like to report offline or online?,seek information,positive politeness,no strategy
+173,15,user,Obviously ignorant online.,,,
+173,16,bot,I apologize for making you angry. Please go to the national portal www.cybercrime.gov.in to file your online complaint.,legal assistance,negative politeness,no strategy
+173,17,user,Okay .,,,
+173,18,bot,Do you need any other assistance?,re-check assistance,negative politeness,reflective listening
+173,19,user,No .,,,
+173,20,bot,I'm glad we were able to help. We are appreciative of your visit. Enjoy this fantastic day!,closing remark,positive politeness,no strategy
+181,0,bot,"Greetings of the day, we are here to help you in a secure environment.",greet,positive politeness,no strategy
+181,1,user,"Last night, a few vile local peasants assaulted me. They won't ever experience happiness in life.",,,
+181,2,bot,We are really sorry to hear this. We are here to assist you in any way we can. Is it okay if I ask for some details so that I can help you more effectively?,persuasion,positive politeness,offer counselling
+181,3,user,Yes.,,,
+181,4,bot,This news is diassappointing and really sad to hear . May i know to whom i am talking ?,seek information,positive politeness,escalate assurance
+181,5,user,My name is nishita and i am 34 years .,,,
+181,6,bot,"Hi Nishita , could you please tell me do you know them ?",seek information,negative politeness,reflective listening
+181,7,user,I know one of them .,,,
+181,8,bot,"That's great . you can have the following assistance in this case : Police Complain , NGOs Help , Women Support Group , Medical Assistance , SIUCAW Help and/or Legal Help .",deliver information,bald-on-record,no strategy
+181,9,user,I want to take medical help .,,,
+181,10,bot,That's a good choice . could you please share your location ?,seek information,negative politeness,no strategy
+181,11,user,Bekar bandh railway station paltan bazar Assam .,,,
+181,12,bot,Thanks for letting me know the location . Would you like to go home visit or hospital visit ?,seek information,positive politeness,no strategy
+181,13,user,Help me with Home visit .,,,
+181,14,bot,Kindly contact Dr. Sneha Saha on +91 9876543234 for booking an appointment for a home visit .,counselling support,bald-on-record,no strategy
+181,15,user,cool .,,,
+181,16,bot,It would be great if I could assist you with something else .,re-check assistance,positive politeness,reflective listening
+181,17,user,No .,,,
+181,18,bot,"Please feel free to contact us anytime . Thanks for visiting. Have a nice day , ma'am !",closing remark,positive politeness,escalate assurance
+195,0,bot,"Greetings of the day, We are here to help you in a secure environment.",greet,positive politeness,confidential comforting
+195,1,user,"Hi , I am very sad .",,,
+195,2,bot,"Please be patient , may I know to whom I am talking ?",seek information,negative politeness,express emotional support
+195,3,user,"I am <person_name> , <person_age> years old .",,,
+195,4,bot,"Hi <person_name> , may you please explain the problem to assist you better ?",seek information,negative politeness,reflective listening
+195,5,user,"I recently uploaded my first video to YouTube, and several people left negative comments.",,,
+195,6,bot,"This is awful. We are available to help in any manner. If it's fine with you, can we continue to keep helping you out?",persuasion,negative politeness,reflective listening
+195,7,user,Many negative remarks regarding my appearance were made online. They claim that I have a boy-screen appearance.,,,
+195,8,bot,It's quite depressing. Could you kindly elaborate on your issue?,seek information,negative politeness,reflective listening
+195,9,user,"I feel very bad after viewing all those comments . Some even say "" Are you really a girl ? """,,,
+195,10,bot,I’m sorry to hear you are having these problems . We will get this resolved as quickly as possible . May you please answer few more questions to assist you better ?,persuasion,negative politeness,escalate assurance
+195,11,user,Okay .,,,
+195,12,bot,Which platform have you used for posting your video ?,seek information,bald-on-record,reflective listening
+195,13,user,"I told you earlier you brainless man , I posted my video on YouTube .",,,
+195,14,bot,"Do you know them , who are putting such comments on your YouTube profile ?",seek information,bald-on-record,reflective listening
+195,15,user,I don't know any of them .,,,
+195,16,bot,"Ok , As per a few question , we came to know that this case is of online harassment which comes under IPC section 354A : The Ministry of Women and Child Development states that section 354A and Section 66(A) of the IT act provide punishment for online harassment against women .",legal assistance,bald-on-record,no strategy
+195,17,user,Okay .,,,
+195,18,bot,You can file the case against the harasser via Cyber Cell and NCW online and offline . Would you like to go for it ?,legal assistance,negative politeness,no strategy
+195,19,user,I would like to complain to NCW ?,,,
+195,20,bot,"Ok , would you go for an online/offline complaint ?",seek information,negative politeness,no strategy
+195,21,user,I want to complain online .,,,
+195,22,bot,"All right , You can go to complain by logging to the NCW portal at http://ncwapps.nic.in",deliver information,bald-on-record,no strategy
+195,23,user,"Okay , please tell me what details do I need to fill ?",,,
+195,24,bot,"Ok , just nothing much you just log in to the portal and click on the "" Register Complaint "" tab and fill in the required details and fill the detailed given form and submit .",deliver information,bald-on-record,no strategy
+195,25,user,"Okay , bye .",,,
+195,26,bot,Would you need some more assistance on this ?,re-check assistance,negative politeness,no strategy
+195,27,user,No .,,,
+195,28,bot,Okay. Take Care. In any problem do vist us.,closing remark,positive politeness,no strategy
+203,0,bot,Greetings of the day! How we may I assist you today ?,greet,positive politeness,no strategy
+203,1,user,"Hi, I am in damn trouble .",,,
+203,2,bot,"I understand you , just calm down and be patient. We are available to help in any manner. Can you let me know who you are communicating with?",persuasion,positive politeness,express emotional support
+203,3,user,I am <person_name> of <person_age> .,,,
+203,4,bot,"Hi <person_name> , please let me know your problem so that I can assist you ?",seek information,positive politeness,reflective listening
+203,5,user,"Ya , actually it's a matter of four years old when I met first - time with my boyfriend . We used to pass a lot of time together and used to capture the moment in form of pics .",,,
+203,6,bot,That's sounds good. Would you please elaborate on your issue for getting better insight into the matter ?,seek information,negative politeness,reflective listening
+203,7,user,"As we were new on Instagram , so used to upload all the pics on Instagram only . Now I came to know that he has joined some terrorist organization .",,,
+203,8,bot,That's awful . Kindly let me know what is exactly troubling you .,seek information,positive politeness,reflective listening
+203,9,user,"When I asked him to delete all my pics with him on Instagram , he started blackmailing me and said , I will prove that you are the partner in all the crime up to date i have done or doing now .",,,
+203,10,bot,This is really disheartening to hear . Can you tell how he used to blackmail you ?,seek information,positive politeness,reflective listening
+203,11,user,And he used to blackmail me that I am working in India as the handler of a few terrorist organizations and appointing terrorists for them . I am completely feared .,,,
+203,12,bot,Please don't get scared and tell me which media he is using to blackmail you .,seek information,bald-on-record,reflective listening
+203,13,user,He is sending threatening text messages and blackmailing me again and again .,,,
+203,14,bot,"Thanks for letting me know the details .Do not worry, you're not alone, you will be helped in all possible ways.",seek information,positive politeness,escalate assurance
+203,15,user,I am feeling disgusting . Why I have chosen that guy . That bastard has exhausted me enough to commit suicide or after knowing this my parents will kill me .,,,
+203,16,bot,"Please have some patience , it's not your fault . You can take action against that person .",persuasion,positive politeness,express emotional support
+203,17,user,How can you help me Rakshak ? Please tell me how can I get rid of this situation ?,,,
+203,18,bot,"This type of online harassment activity which is recognised as an offence under Section 354A of IPC through the Criminal Law ( Amendment ) Act , 2013 is totally condemned. You can take action against that person as per the law .",legal assistance,bald-on-record,no strategy
+203,19,user,What are the possible ways of making a complaint and how strong is my case to proceed with legal action ?,,,
+203,20,bot,Harassment in any form is strong enough for filing complain . You can report such incidents to Cyber Crime Cell and/or National Commission for Women .,deliver information,bald-on-record,no strategy
+203,21,user,How can I make a complaint online and what sort of document I have to attach for the complaint ?,,,
+203,22,bot,Would you like to report online to Cyber Crime Cell or National Comission for Women ?,seek information,negative politeness,no strategy
+203,23,user,"No , not now . May I get any helpline number to discuss and take some advice before filing such cases ?",,,
+203,24,bot,"Yes sure , you can dial 24 x 7 Helpline Number - 155260 .",counselling support,bald-on-record,no strategy
+203,25,user,"Ok , thanks for the information.",,,
+203,26,bot,Its' my pleasure . Is there anything else I can help you with ?,re-check assistance,positive politeness,escalate assurance
+203,27,user,"No , thanks . It's enough for now .",,,
+203,28,bot,Thanks for contacting us. It's nice at helping you . Have a nice day !,closing remark,positive politeness,no strategy
+215,0,bot,"Greetings of the day, We are here to help you in a secure environment.",greet,positive politeness,confidential comforting
+215,1,user,My sister needs help . But I wonder how to help her .,,,
+215,2,bot,Yes Sure I'd be pleased to help you here. We are available to help in any case. May I know to whom I am interacting and the requisite detail of your sister?,persuasion,negative politeness,reflective listening
+215,3,user,"I am <person_name> . My sister's name is <person_name> , <person_age> years old .",,,
+215,4,bot,"Thanks for sharing tour details , Would you please elaborate on your issue in detail to assist you in a better way ?",seek information,negative politeness,reflective listening
+215,5,user,My sister's ex-boysister is stalking her after she broke up with him . This is affecting his mental health .,,,
+215,6,bot,Please don't panic . We will sort this out . Would you add some more details ?,seek information,negative politeness,reflective listening
+215,7,user,"He is repeatedly posting messages on his social media accounts , sending her text messages asking her to patch up with him even after her constant rejection .",,,
+215,8,bot,Please don't panic much . Such cases are very frequent on several social media platforms these days . We can overcome this . Just be patient .,persuasion,positive politeness,express emotional support
+215,9,user,Okay .,,,
+215,10,bot,"To provide the better assistance, would you please answer a few of the questions related to this?",persuasion,negative politeness,reflective listening
+215,11,user,Yes sure .,,,
+215,12,bot,Would you please confirm with her that when did she notice being stalked by someone ?,seek information,negative politeness,reflective listening
+215,13,user,It's been more than 5 months now .,,,
+215,14,bot,"Ok , I can understand your concern for her , would you please name the social media , where she is being stalked ?",seek information,positive politeness,reflective listening
+215,15,user,"That bastard is following her on multiple social media accounts , Instagram , Facebook , and even on LinkedIn .",,,
+215,16,bot,"Ok , Hasn't she tried blocking him or report his account on all these social media via the given options for report and block ?",seek information,bald-on-record,reflective listening
+215,17,user,"Yes , she has blocked him but she doesn't want to report him because she doesn't want to create any trouble for him .",,,
+215,18,bot,"Ok , Such cases come under stalking which is a punishable offense under IPC 354D .",deliver information,bald-on-record,no strategy
+215,19,user,Okay .,,,
+215,20,bot,"Such cases are quite frequent on social media so , taking few measures like reporting some account is involved in malicious activity is quite healthy for both users and that particular platform also . Kindly suggest her to report to avoid few unnecessary consequences in the future .",counselling support,bald-on-record,no strategy
+215,21,user,"Sure , I will definitely try to convince her . What else I can do ?",,,
+215,22,bot,She can also report this case to Cyber Cell or NCW for complaints on the respective portal online with some valid evidence .,counselling support,bald-on-record,no strategy
+215,23,user,I will try to talk to her . Thanks for your help .,,,
+215,24,bot,Would you need some more assistance in respect to this ?,re-check assistance,negative politeness,reflective listening
+215,25,user,See you later if need anything .,,,
+215,26,bot,"Ok , Take care . In need of any help, do visit us again. .",closing remark,positive politeness,no strategy
